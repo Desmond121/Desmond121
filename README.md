@@ -8,7 +8,7 @@ I am a postgraduate student of computer science at the University of Bristol, lo
 - 📫 How to reach me: dmz990121@outlook.com
 
 ### Insight of my previous projects:
-- 🚀 SpaceMath. An IBM Academic Initiative collaboration project, providing a maths-training augmented reality game with universe theme. The game is developed with Unity, providing voice command features powered by IBM Watson.
+- 🚀 SpaceMath. An IBM Academic Initiative collaboration project, providing a maths-training augmented reality game with universe theme. The game is developed in Unity, with voice command features powered by IBM Watson.
 - ⚗ CEESS. An desktop application designed to enhence the chemical engineering safety education, developed with Python and PySide2/QT.
 
 

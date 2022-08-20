@@ -4,7 +4,7 @@ I am a postgraduate student of computer science at the University of Bristol, lo
 - 🔭 I’m currently working on my [graduation project](https://github.com/UOB-SpaceMath/SpaceMath).
 - 🌱 I’m currently learning Spring.
 - 💬 I'm currently looking for a job in back-end development.
-- ⌨ I'm a big fan of mechanical keyboard, currently using GMMK pro with TTC Quick Silver switches.
+- ⌨ I'm a big fan of mechanical keyboard, currently using GMMK Pro with TTC Quick Silver switches.
 - 📫 How to reach me: dmz990121@outlook.com
 
 ### Insight of my previous projects:

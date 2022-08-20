@@ -6,10 +6,11 @@ I am a postgraduate student of computer science at the University of Bristol, lo
 - 💬 I'm currently looking for a job in back-end development.
 - ⌨ I'm a big fan of mechanical keyboard, currently using GMMK Pro with TTC Quick Silver switches.
 - 📫 How to reach me: dmz990121@outlook.com
+- 🧊 Visit my personal [blog](https://desmond121.github.io/).
 
 ### Insight of my previous projects:
-- 🚀 SpaceMath. An IBM Academic Initiative collaboration project, providing a maths-training augmented reality game with universe theme. The game is developed in Unity, with voice command features powered by IBM Watson.
-- ⚗ CEESS. An desktop application designed to enhence the chemical engineering safety education, developed with Python and PySide2/QT.
+- 🚀 [SpaceMath](https://github.com/UOB-SpaceMath/SpaceMath). An IBM Academic Initiative collaboration project, providing a maths-training augmented reality game with universe theme. The game is developed in Unity, with voice command features powered by IBM Watson.
+- ⚗ [CEESS](https://github.com/Desmond121/CEESS). An desktop application designed to enhence the chemical engineering safety education, developed with Python and PySide2/QT.
 
 
 

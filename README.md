@@ -1,9 +1,9 @@
 ### Hi there 👋
 I am a postgraduate student of computer science at the University of Bristol, love everything about ✨Tech✨!
 
-- 🔭 I’m currently working on my [graduation project](https://github.com/UOB-SpaceMath/SpaceMath).
-- 🌱 I’m currently learning Spring.
-- 💬 I'm currently looking for a job in back-end development.
+- 🔭 I'm currently working as an intern SDET at GF Securities.
+- 🌱 I'm currently learning Robot Framework, Selenium and Django.
+- 💬 I'm currently looking for a SDE or SDET job.
 - ⌨ I'm a big fan of mechanical keyboard, currently using GMMK Pro with TTC Quick Silver switches.
 - 📫 How to reach me: dmz990121@outlook.com
 - 🧊 Visit my personal [blog](https://desmond121.github.io/).
